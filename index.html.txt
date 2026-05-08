@@ -27,5 +27,6 @@
         <footer>
             <p>© 2026 Мой сайт. Все права защищены.</p>
         </footer>
+        <img src="photo.webp">
     </body>
 </html>
